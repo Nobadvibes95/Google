@@ -1,0 +1,32 @@
+body{
+    background-color: #EEE1C6;
+}
+div{
+    background-color: white;
+    padding: 2px;
+    margin-right: 23rem;
+    margin-left: 15rem;
+}
+p2{
+    color: black;
+    font-size: 2rem;
+}
+input{
+    width: 15rem;
+}
+select{
+    background-color: #BEBAA7;
+}
+select{
+    background-color: #ffff;
+    border-color: #ffff;
+    padding-left: 1px;
+}
+
+button{
+    background-color: #ffa500;
+    color: #ffff;
+    border-color: #ffa500;
+    border-radius: 4px;
+}
+    
